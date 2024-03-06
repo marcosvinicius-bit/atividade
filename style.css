@@ -1,0 +1,25 @@
+@charset "utf-8";
+body{
+    background-size: cover;
+    color: rgb(0, 0, 0);
+}
+h1{
+    text-align: center;
+    margin: 5%;
+    color: aqua;
+}
+
+p{
+    text-align: center;
+    margin: 5%;
+}
+
+
+.formulario{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    margin: 5%;
+}
